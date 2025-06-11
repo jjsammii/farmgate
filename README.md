@@ -1,5 +1,12 @@
 # 📊 Farmgate Dashboard – JAMIS Data Explorer
 
+<<<<<<< HEAD
+=======
+🌐 **Live Dashboard:** Visit the Farmgate JAMIS Dashboard here 👉 [https://jcs-da-farmgate.streamlit.app/](https://jcs-da-farmgate.streamlit.app/)
+
+---
+
+>>>>>>> 1fd1d84 (Initial commit)
 Welcome to the **Farmgate Dashboard**, a powerful data visualization tool built with **Streamlit** that transforms raw PDF data from the **JAMIS website** into interactive insights.
 
 ## 🔍 Project Overview

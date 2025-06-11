@@ -1,0 +1,21 @@
+
+# Environment
+amisextract-env
+
+# Byte compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.pdf
+*.png
+*.bak
+*.xls
+*.xlsx
+
+#VSCode
+.vscode/
